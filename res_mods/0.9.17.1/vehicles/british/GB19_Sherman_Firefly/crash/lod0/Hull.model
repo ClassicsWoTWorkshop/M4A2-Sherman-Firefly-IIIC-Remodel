@@ -1,0 +1,10 @@
+<hull.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.56049 -0.843548 -3.33179</min>
+    <max>1.5982 1.0641 2.91259</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/british/GB19_Sherman_Firefly/crash/lod0/Hull</nodefullVisual>
+</hull.model>

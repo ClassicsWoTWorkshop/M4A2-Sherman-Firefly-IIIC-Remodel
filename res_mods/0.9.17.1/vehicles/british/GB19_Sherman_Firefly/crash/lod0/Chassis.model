@@ -1,0 +1,10 @@
+<chassis.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.27163 0.00584043 -3.04104</min>
+    <max>1.27163 1.11819 2.77945</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/british/GB19_Sherman_Firefly/crash/lod0/Chassis</nodefullVisual>
+</chassis.model>
